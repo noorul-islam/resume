@@ -1,0 +1,254 @@
+{
+  "main": {
+    "name":"Noorul Islam MBA CSM",
+    "occupation":"Project Manager cum Blockchain Developer",
+    "description":"Competent & diligent IT professional, with an experience of over 16 years in IT Projects and Management. Equipped with the knack of functional management along with the practical experience in project scoping, estimation, planning, risk management, finalization of technical/functional specifications involving the leads, resource administration and quality management of the software products/applications. Subject Matter Expert in the Capital Market - Initial Public Offering (IPO) Floatation, Local (Saudi) & International Equity Market, Exchange Traded Fund (ETF), Fixed Income and Sukuk & Bonds.",
+    "image":"profilepic.jpg",
+    "bio":"Expert in Ethereum Blockchain (Geth, Smart Contract, DApps, NodeJS, Truffle, IPFS, ReactJS, Web3 etc.) development. Subject Matter Expert in the Capital Market - Initial Public Offering (IPO) Floatation, Local (Saudi) & International Equity Market, Exchange Traded Fund (ETF), Fixed Income and Sukuk & Bonds.",
+    "contactmessage":"For any enquiry please contact below.",
+    "email": "noorul_islam@hotmail.com",
+    "phone": "00971-543571241",
+    "address":{
+      "street":"Deira",
+      "city":"Dubai",
+      "state":", United Arab Emirates",
+      "zip": ""
+    },
+    "website": "http://www.noorul.com.nu",
+    "resumedownload":"https://www.dropbox.com/s/n60578mus3k050e/Noorul%20Islam%20MBA%20-%20CSM%20-%20IT%20PM.pdf?dl=0",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/noorul_islam",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/noorulislam/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/noorul-islam",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/noorul_a",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Blockchain, dApps,  Smart Contracts || Business Domain Expertise || Project Management",
+    "education":[
+      {
+        "school":"Vinayaka Missions University",
+        "degree":"Masters in Business Administration (MBA)",
+        "graduated":"June 2015",
+        "description":"Hold MBA in Finance and secured First class, which covers the HR Management, Marketing Management, Finance Management and Management Accounting, Information System Management, Labour Welfare, Investment Analysis, Business Policy, Sales and Distribution Management"
+      },
+      {
+        "school":"Bharathidasan University",
+        "degree":"Bachelors of Commerce (B.Com)",
+        "graduated":"June 1996",
+        "description":"Hold Bachelors of Commerce (B.com) and secured Second class, which covers the Development Banking, Taxation, Financial Analysis, Entrepreneurial Development, Auditing, Corporate Finance, Personnel Management, Company Secretarial Practice, Cost Accounting, Corporate Accountancy, Business Laws, Business Communication, Accountancy, Business Statistics etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Total Technologies and Solutions FZ LLC, Dubai, UAE",
+        "title":"Blockchain Developer / Project Manager ",
+        "years":"October 2016 -- March 2018",
+        "description":" IPO Management System Enhancement for Bank Masraf Al Rayan(Qatar).# Migration of Board of Meeting and Voting application to Ethereum Blockchain Technology.# Effective contribution on consensus algorithm, cryptocurrency token and wallet maintenance.# Created my own Resume on Smart Contract and deployed in Ethereum Ropsten network and can be accessed through Decentralized Application (dApp).# Created Online betting application and deployed in Ethereum Ropsten network and can be accessed through Decentralized Application (dApp)."
+      },
+      {
+        "company":"Freelancer, Chennai, India",
+        "title":"Freelance IT Consultant",
+        "years":"July 2014 -- July 2016",
+        "description":"Designed Project deadline and budget for different projects. # Analyzed business requirements and prepared risk management process. # Scheduled and evaluated all deliverables.# Lead and managed the project development team remotely."
+      },
+      {
+        "company":"Computer and Systems Engineering, Riyadh, KSA",
+        "title":"Project Manager / IPO Product Manager / System Analyst",
+        "years":"September 2003 -- April 2014",
+        "description":"HSBCTadawul Online Registration/Subscription Management.# Exchange Traded Fund (ETF).# Local Equity Trading System (LETS).# International Order Management and Settlement System (IOMSS).# Fixed Income Management System.# Financial Information Exchange Engine (FIX-IN).# Share Murabaha Management module in LETS.# IPO Management System (IPOMS); Web Client for IPOMS.# TARGIN Information Protocol Engine (TIP).# LETS Middleware Interface (LMI).# Reuters Order Routing Engine (ROR- FIX-OUT).# Direct Debit Management System (DDMS).# HSBC SMS Interface (HSI); HSBCTadawul (Online Share Trading application).# Collaborated with the team members, senior management and Client to maintain a continuous stream of information regarding the project status and progress.# Carried out detailed planning and scheduling to ensure seamless delivery of the project as per the delivery matrix.# Coordinated with the customers for business process analysis and understanding technical & functional specifications.# Instrumental in finalization of project requirements and resource planning and played a key role in strategic planning to assure achievement of agreed to functional and business objectives.# Led and guided the team and set out performance parameters/ deadlines; held review meetings and monitored the progress of the project as per schedule, and ensured timely completion and delivery of the project.# Coordinate with the users for business process analysis and creating technical & functional specifications.# Subject matter expert in IPO, Equity Market, ETF, Share Murabaha, Fixed Income, and Sukuk & bonds.# Introduced MS Visual Source Safe for better source code management and minimized the time and cost by 30%."
+      },
+      {
+        "company":"Oriental Oryx LLC, Muscat, Oman",
+        "title":"Software Developer",
+        "years":"May 2002 -- June 2003",
+        "description":"eProcurement System (Ministry Of Oman).# Photocentre Website.# Zubair Furnishing Website.# Collaborate closely with other team members to plan, design and develop robust solution.# Interface with business analysts, developers and technical support to determine optimal specifications."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Smart Contract : Solidity, Geth, Truffle, IPFS",
+        "level":"80%",
+        "keywords":"['Smart Contract', 'Solidity', 'Geth', 'Truffle', 'IPFS',]"
+      },
+      {
+        "name":"Decentralized Application (dApps) : NodeJS, Web3, ReactJS, Metamask ",
+        "level":"70%",
+        "keywords":"['Decentralized Application', 'dApps', 'NodeJS', 'Web3', 'ReactJS', 'Metamask',]"
+      },
+      {
+        "name":"Project Management: MS Project 2016, Git, JIRA  and Trello",
+        "level":"90%",
+        "keywords":"['Project Management' 'MS Project 2016', 'Git', 'JIRA' 'Trello',]"
+      },
+      {
+        "name":"Programming Languages : Java, J2EE, EJB, MDB ",
+        "level":"95%",
+        "keywords":"['Java', 'J2EE', 'EJB', 'MDB',]"
+      },
+      {
+        "name":"Middleware Interface : IBM Webspere MQ, Apache Active MQ",
+        "level":"80%",
+        "keywords":"['Middleware Interface' 'IBM Webspere MQ', 'Apache Active MQ',]"
+      },
+      {
+        "name":"Application Server : IBM WebSphere AS 8.5.5, Oracle 9i/10g, Tomcat, Weblogic, JBoss",
+        "level":"50%",
+        "keywords":"['Application Server' 'IBM WebSphere AS 8.5.5', 'Oracle 9i/10g', 'Tomcat', 'Weblogic', 'JBoss',]"
+      },
+      {
+        "name":"Database : Oracle, MS SQL Server, My SQL, MongoDB",
+        "level":"80%",
+        "keywords":"['Database' 'Oracle', 'MS SQL Server', 'My SQL', 'MongoDB',]"
+      }
+    ]
+  },
+  
+  
+  "contact":{
+    "certifications":[
+      {
+        "school":"Scrum Alliance Inc.",
+        "degree":"Certified Scrum Master (CSM)",
+        "graduated":"January 2016",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Sun Micro Systems Inc. (Oracle corporation)",
+        "degree":"Sun Certified Java Programmer (SCJP)",
+        "graduated":"January 2001",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"International Institute Project Management (IIPM)",
+        "degree":"PMP Exam preparation certification course",
+        "graduated":"May 2010",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Software Solution Integrated Ltd. (SSI)",
+        "degree":"Diploma in RDBMS",
+        "graduated":"January 1999",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ]
+
+  },
+  
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Blockchain Resume of Noorul Islam",
+        "category":"My own Resume deployed in Ethereum Blockchain",
+        "image":"noorul-bc-resume.jpg",
+        "url":"http://www.noorul.com.nu"
+      },
+      {
+        "title":"Board of Meeting and Voting blockchain application",
+        "category":"Banking and Financial industry",
+        "image":"tts.png",
+        "url":"http://www.ttsme.com"
+      },
+      {
+        "title":"Online Bettting application deployed on thereum blockchain Ropsten network with dApp accessibility",
+        "category":"Online Bettting application deployed on thereum blockchain Ropsten network with dApp accessibility",
+        "image":"tts.png",
+        "url":"http://www.darkchain.com.nu"
+      },
+      {
+        "title":"IPO Management System for Bank Masraf Al Rayan",
+        "category":"Banking and Financial industry",
+        "image":"alrayan.jpg",
+        "url":"https://www.alrayan.com/english/home"
+      },
+      {
+        "title":"Online Share Trading Application for HSBC Saudi Arabia",
+        "category":"Banking and Financial industry",
+        "image":"sabbtadawul.jpg",
+        "url":"https://www.etadawul.hsbcsaudi.com/eTrade/index.jsp"
+      },
+      {
+        "title":"IPO Management and Settlement application for Al-Dukheil Financial Group (AFG-CCFI)",
+        "category":"Banking and Financial industry",
+        "image":"afg.png",
+        "url":"http://www.aldukheil.com.sa/inner.aspx?pg=initial_public_offerings_rights_issues&h=2&lang=en"
+      },
+      {
+        "title":"Exchange Traded Fund for HSBC Saudi Arabia",
+        "category":"Banking and Financial industry",
+        "image":"hsbcETF.png",
+        "url":"http://www.hsbcsaudi.com/en/Investment/Asset-Management/Exchange-Traded-Funds"
+      },
+      {
+        "title":"Share Murabaha Management module in Local Equity Trading and Settlement system(LETS)",
+        "category":"Banking and Financial industry",
+        "image":"hsbcMurabaha.png",
+        "url":"http://www.hsbcsaudi.com/en/Investment/Asset-Management/Murabaha-Finance-Funds"
+      },
+      {
+        "title":"Fixed Income Management module in Local Equity Trading and Settlement system(LETS)",
+        "category":"Banking and Financial industry",
+        "image":"sabbtadawul.jpg",
+        "url":"https://www.sabb.com/en/about-sabb/news-room/news-year-2011/hsbc-saudi-arabia-wins-mena-fund-manager-awards"
+      },
+      {
+        "title":"International Order Management and Settlement System (IOMSS) for JPMorghan KSA",
+        "category":"Banking and Financial industry",
+        "image":"sabbtadawul.jpg",
+        "url":"http://www.cse.com.sa/products-services/financial-services-industry/investment-order-management-settlement-system-iomss"
+      },
+      {
+        "title":"Financial Information Exchange Engine (FIX-IN) for HSBC Saudi and Deutsche Bank KSA",
+        "category":"Banking and Financial industry",
+        "image":"sabbtadawul.jpg",
+        "url":"https://www.etadawul.hsbcsaudi.com/eTrade/index.jsp"
+      },
+      {
+        "title":"TARGIN Information Protocol Engine (TIP)",
+        "category":"TARGIN Information Protocol Engine (TIP)",
+        "image":"sabbtadawul.jpg",
+        "url":" "
+      },
+      {
+        "title":"Reuters Order Routing Engine (ROR- FIX-OUT)",
+        "category":"Reuters Order Routing Engine (ROR- FIX-OUT)",
+        "image":"sabbtadawul.jpg",
+        "url":" "
+      },
+      {
+        "title":"Direct Debit Management System (DDMS) for Saudi Hollandi Bank",
+        "category":"Direct Debit Management System (DDMS) for Saudi Hollandi Bank",
+        "image":"bankawwal.png",
+        "url":"http://www.cse.com.sa/products-services/banking/direct-debit-management-system-ddms"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Ahamed Al Qarqoush"
+      },
+      {
+        "text":"That Noorul Islam must be one of the most brilliant Project Manager and blockchain developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he has 16 years of experience but I am confident that he will be one of your best team player in no time!",
+        "user":"Mir Musharaf Ali"
+      }
+    ]
+  }
+}
