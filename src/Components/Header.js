@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
+import Draggable from 'react-draggable';
 
 class Header extends Component {
+
+
   render() {
 
     if(this.props.data){
@@ -8,6 +11,7 @@ class Header extends Component {
       var occupation= this.props.data.occupation;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
+	  var state= this.props.data.address.state;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
@@ -34,14 +38,40 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
-         <div className="banner-text">
+         <div className="banner-text" id="banner-text">
+         	<br /><br />
             <h1 className="responsive-headline"> {name}</h1>
-            <h3> {city}, UAE based <span>{occupation}</span>. {description}.</h3>
+
+			{
+			  <Draggable
+				axis="both"
+				handle=".handle"
+				defaultPosition={{x: 0, y: 0}}
+				position={null}
+				grid={[25, 25]}
+				onStart={this.handleStart}
+				onDrag={this.handleDrag}
+				onStop={this.handleStop}>
+				<div className="handle" align="right">Chatbot. Ask about me. -- Drag from here <br />
+
+					   <iframe title="Chatbot" align="right"
+						 allow="microphone;"
+						 width="350"
+						 height="430"
+						 src="https://console.dialogflow.com/api-client/demo/embedded/221a5b7b-ae62-41cc-8ff3-b9d908ce04d5">
+					</iframe>
+				</div>
+				</Draggable>
+			}
+
+
+         	<h3> {city}, {state} based <span>{occupation}</span>. {description}.</h3>
             <hr />
             <ul className="social">
                {networks}
             </ul>
          </div>
+
       </div>
 
       <p className="scrolldown">
